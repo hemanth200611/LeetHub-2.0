@@ -91,3 +91,15 @@ npm run format-test   Test all code is formatted properly
 npm run lint          Lint JavaScript
 npm run lint-test     Test all code is linted properly
 ```
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/hemanth200611/LeetHub-2.0/tree/master/3875-construct-uniform-parity-array-i) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/hemanth200611/LeetHub-2.0/tree/master/3875-construct-uniform-parity-array-i) |
+<!---LeetCode Topics End-->
